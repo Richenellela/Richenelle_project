@@ -19,4 +19,4 @@ Ce projet est un site vitrine responsive développé en **HTML**, **CSS** et **J
 
 1. Télécharger ou cloner le dépôt :
    ```bash
-   git clone https://github.com/tonpseudo/nom-du-depot.git
+   git clone https://github.com/Richenellela/Richenelle_project
